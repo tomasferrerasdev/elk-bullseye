@@ -50,11 +50,12 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 30,
-    fontFamily: "uberBold",
     marginBottom: 12,
+    fontFamily: "uberBold",
   },
   subtitle: {
     fontSize: 14,
     color: "#5A5A5A",
+    fontFamily: "uberMedium",
   },
 });
