@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "Elk",
     "slug": "Elk",
+=======
+    "name": "elk-bullseye",
+    "slug": "elk-bullseye",
+>>>>>>> main
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
