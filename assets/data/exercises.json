@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Precision Aim Drill",
+    "type": "aim",
+    "equipment": "target paper, pistol, ammunition",
+    "difficulty": "medium",
+    "instructions": "Set up a target at 25 meters. Take aim and fire 10 shots, focusing on hitting the center of the target. Record your score based on the accuracy of your shots."
+  },
+  {
+    "name": "Rapid Fire Exercise",
+    "type": "fast shooting",
+    "equipment": "pistol, ammunition, timer",
+    "difficulty": "hard",
+    "instructions": "Set up multiple targets at varying distances. On the timer's beep, draw and fire one shot at each target as quickly as possible. Practice improving your speed and accuracy with each repetition."
+  },
+  {
+    "name": "Cover and Concealment Drill",
+    "type": "defensive shooting",
+    "equipment": "pistol, ammunition, barriers",
+    "difficulty": "medium",
+    "instructions": "Set up barriers to simulate cover. Move between cover points while engaging targets. Focus on minimizing exposure and maintaining accuracy. This drill helps improve defensive shooting techniques and movement."
+  },
+  {
+    "name": "Tactical Reload Drill",
+    "type": "defensive shooting",
+    "equipment": "pistol, ammunition, spare magazines",
+    "difficulty": "easy",
+    "instructions": "Start with your pistol loaded and spare magazines on your belt. Engage a target with two shots, perform a tactical reload, and re-engage the target with two more shots. Practice smooth and efficient reloading under pressure."
+  },
+  {
+    "name": "Double Tap Drill",
+    "type": "fast shooting",
+    "equipment": "pistol, ammunition, target",
+    "difficulty": "medium",
+    "instructions": "Set up a target at 10 meters. Practice shooting two quick successive shots (double tap) at the center of the target. Focus on maintaining control and accuracy with rapid firing."
+  },
+  {
+    "name": "Moving Target Drill",
+    "type": "aim",
+    "equipment": "pistol, ammunition, moving target system",
+    "difficulty": "hard",
+    "instructions": "Set up a moving target system. Practice tracking and shooting the moving target, adjusting your aim based on the target's speed and direction. This drill enhances target tracking and accuracy under dynamic conditions."
+  },
+  {
+    "name": "Low Light Shooting",
+    "type": "defensive shooting",
+    "equipment": "pistol, ammunition, flashlight",
+    "difficulty": "hard",
+    "instructions": "Practice shooting in low light conditions using a flashlight. Engage targets while managing the flashlight and maintaining accuracy. This drill prepares you for defensive scenarios in low visibility environments."
+  },
+  {
+    "name": "Weak Hand Shooting",
+    "type": "aim",
+    "equipment": "pistol, ammunition, target",
+    "difficulty": "medium",
+    "instructions": "Set up a target at 15 meters. Practice shooting using your non-dominant hand. Focus on maintaining control and accuracy. This drill improves your ability to shoot accurately with both hands."
+  }
+]
